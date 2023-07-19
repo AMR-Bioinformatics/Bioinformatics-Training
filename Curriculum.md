@@ -14,7 +14,7 @@ Week 3
 * QC raw reads and preprocessing
 
 Week 4
-* Genome as5embly
+* Genome assembly
 * Strain typing
 * Database querying
 * Introduction to python
