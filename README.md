@@ -39,7 +39,7 @@ The training curriculum covers a diverse range of topics, including:
 
 To get started with the training materials, follow these steps:
 
-1. Clone this repository to your local machine using `git clone <repository_url>`.
+1. Clone this repository to your local machine using `git clone git@github.com:AMR-Bioinformatics/Bioinformatics-Training.git`.
 
 2. Navigate to the specific topic folders to access the slides, scripts, and datasets related to each topic.
 
