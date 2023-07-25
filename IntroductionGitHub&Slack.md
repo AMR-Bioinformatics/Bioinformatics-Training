@@ -67,6 +67,39 @@ More on commits refer to [About commits](https://docs.github.com/en/pull-request
 
    **Great work that was your first commit** ✨ 
 
+#### Open a pull request
+
+Collaboration happens on a pull request. The pull request shows the changes in your branch to other people and allows people to accept, reject or suggest additional changes to your branch. This pull request is going to keep changes you made on your branch and propose them to the `main` branch. For more on pull requests kinldy refer to 
+[Info on Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
+![my-firstcommit](https://github.com/Natasha-Adongo/Bioinformatics-Training/assets/109069282/bcb3a422-10d3-4bdb-b10b-46ba08012148)
+
+You will notice the pop-up message after your commit indicating your recent push to your branch providing a button that says *Comapare & Pull request*
+To create a pull request you will:-
+1. Click on Pull requests tab in the header menu of your repo
+2. Click New Pull request
+3. Base dropdown make sure main is selected
+4. Select the compare dropdown and clicj my first branch
+5. Click create pull request
+6. Enter the name and description of your pull request
+7. Click create pull request
+
+**That was it!!!**  🎊
+
+#### Forking
+
+A fork is a new repo that shares code and visibility with the original 'upstrean' repo. For example you can fork a repo to propose changes to the main repo and submit a pull request when done. More on forks can be found here [Forking info](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)
+In this tutorial we will use the following github repo [octate/Spoon-Knife](https://github.com/octocat/Spoon-Knife)
+
+1. Navigate to the github page listed above and click on `Fork`
+2. Selcect the owner for the forked repo
+3. You can put a brief description about the repo
+4. Click  **Create Fork**
+   [Detailed instructions on Forkinh](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+   
+
+**Well done you have completed the intro** 🎊🎊
+
 
     
 
