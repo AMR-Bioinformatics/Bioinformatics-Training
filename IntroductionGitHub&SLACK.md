@@ -103,6 +103,14 @@ In this tutorial we will use the following github repo [octate/Spoon-Knife](http
 
     
 
+# SLACK
+This is one of the most widely used messaging apps for collaborations.
+
+To get started download the [Desktop app](https://www.slack.com/download?_gl=1*1bzfygn*_gcl_au*NTI4MTE4NTQ5LjE2OTAyODI3OTI.*_ga*MTUyNDI3NTEzOS4xNjkwMjgyNzkz*_ga_QTJQME5M5D*MTY5MDI4Mjc5Mi4xLjEuMTY5MDI4MzE0My42MC4wLjA.).
+Watch the video and guide for introduction on SLACK [Video Guide](https://youtu.be/6wjmH5qL3Ms)
+More information about using Slack can be found [HERE](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide#more-actions-3)
+
+Explore the AMRgenomics Slack channel.
 
    
  
