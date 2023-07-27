@@ -101,7 +101,11 @@ In this tutorial we will use the following github repo [octate/Spoon-Knife](http
 **Well done you have completed the intro** 🎊🎊
 
 
-    
+# Markdown Syntax
+
+[Markdown Tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+Practice markdown [here](https://www.markdowntutorial.com/)
 
 # SLACK
 This is one of the most widely used messaging apps for collaborations.
