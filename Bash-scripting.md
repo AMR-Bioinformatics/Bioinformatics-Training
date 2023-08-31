@@ -222,6 +222,73 @@ Read more on the while loop and train on it  use [Geeks4Geeks](https://www.geeks
 
 
 
+## Grep and sed
+
+**Grep** - It stands for Global regular expression print
+
+This command is used to search for specific patterns or items within a file and displays the items that meet the said pattern
+
+Things to know about the grep command:
+- This command is case sensitive, hence you must use the -i flag to match the case insensitive pattern
+- You must use quotation marks to search for any charcters that have any special meaning to the shell
+- The command displays the whole line with the searched character so you must use the -o flag to display the name of the file and the serached character.
+
+
+Syntax 
+
+``grep [options] pattern [files]``
+
+- cd to the following directory : /shell-lesson-data/exercise-data/writing
+- Let's find lines that contain the word -not-
+- ``grep not haiku.txt``
+- use the ``grep --help`` to find out options that can be used with grep
+-  In addition, the search pattern does not have to form a complete word.
+-  Use the following link to learn more on grep operators - [GREP-TUTORIAL](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) or use Tutorials Point
+
+_Assignemnt_
+
+- Cd to the directory /exercise-data/writing 
+- Create a for loop that you will use on the LittleWomen.txt
+- The loop should count the names "Jo" , "Meg", "Beth", "Amy"
+- And prints the output on the screen
+
+
+**Sed** - Stream editor
+
+This command allows you to edit files directly; it follows the following command read, execute and display
+
+- Read: SED reads a line from the input stream (file, pipe, or stdin) and stores it in its internal buffer called pattern buffer.
+
+- Execute: All SED commands are applied sequentially on the pattern buffer. By default, SED commands are applied on all lines (globally) unless line addressing is specified.
+
+- Display: Send the (modified) contents to the output stream. After sending the data, the pattern buffer will be empty.
+
+- The above process repeats until the file is exhausted.
+  
+- Pattern buffer is a private, in-memory, volatile storage area used by the SED.
+
+By default, all SED commands are applied on the pattern buffer, hence the input file remains unchanged
+
+- Download the following data into a directory called firstdir [data2](https://librarycarpentry.org/lc-shell/data/shell-lesson.zip)
+- Unzip the folder
+- Rename the file 829-0.txt to gulliver.txt
+- Run ``sed --help`` to check the various flags that can be used with sed
+- Run the following command ``sed '9352,9714d' gulliver.txt > gulliver-nofoot.txt``
+- Read more on sed [here](https://librarycarpentry.org/lc-shell/06-free-text.html)
+
+  _Assignment_
+  - Use the sed command in a for loop to remove the following lines in the file diary.html
+  - ``1 to 221``
+  - ``265 to 330``
+  - Save the ouptput in a file called diary_no_header-no_footnote.txt
+    
+  
+
+
+  
+
+  
+
 
 
 
