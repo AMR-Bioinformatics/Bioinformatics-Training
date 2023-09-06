@@ -11,7 +11,7 @@ GitHub is used with various developers as means to colaborate remotely. In this 
 
 This course will take less than an hour to complete.
 
-**Prerequistes**
+**Prerequisites**
 
 Create a GitHub account [Join GitHub](https://github.com/join)
 
@@ -34,8 +34,8 @@ by different people in an organisation (collaboration). More on repositories can
 
    ### GitHub Branches
 
-   A branch is paralel versions of your repo, by default you repo has one branch ``main`` and just like the name suggests this is your main/definitive/default branch.
-   It is advisible to create additional copies of you `main` branch and make changes of it without actually affecting the core/default/main branch and ultimately your main
+   A branch is parallel versions of your repo, by default you repo has one branch ``main`` and just like the name suggests this is your main/definitive/default branch.
+   It is advisible to create additional copies of your `main` branch and make changes of it without actually affecting the core/default/main branch and ultimately your main
    project. (In other words in the case where different people are collaborating on one project branches ensures that everyones work is safe before any more changes are done on the main branch/projcet.)
 
    By default the `main` branch is the base branch for new `pull requests` and code commits.
@@ -79,7 +79,7 @@ To create a pull request you will:-
 1. Click on Pull requests tab in the header menu of your repo
 2. Click New Pull request
 3. Base dropdown make sure main is selected
-4. Select the compare dropdown and clicj my first branch
+4. Select the compare dropdown and click my first branch
 5. Click create pull request
 6. Enter the name and description of your pull request
 7. Click create pull request
@@ -88,7 +88,7 @@ To create a pull request you will:-
 
 #### Forking
 
-A fork is a new repo that shares code and visibility with the original 'upstrean' repo. For example you can fork a repo to propose changes to the main repo and submit a pull request when done. More on forks can be found here [Forking info](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)
+A fork is a new repo that shares code and visibility with the original 'upstream' repo. For example you can fork a repo to propose changes to the main repo and submit a pull request when done. More on forks can be found here [Forking info](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks)
 In this tutorial we will use the following github repo [octate/Spoon-Knife](https://github.com/octocat/Spoon-Knife)
 
 1. Navigate to the github page listed above and click on `Fork`
@@ -114,7 +114,7 @@ To get started download the [Desktop app](https://www.slack.com/download?_gl=1*1
 Watch the video and guide for introduction on SLACK [Video Guide](https://youtu.be/6wjmH5qL3Ms)
 More information about using Slack can be found [HERE](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide#more-actions-3)
 
-Explore the AMRgenomics Slack channel.
+Explore the AMR genomics Slack channel.
 
    
  
