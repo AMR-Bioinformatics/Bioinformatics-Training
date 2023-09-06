@@ -46,13 +46,13 @@ This simply includes 4 basic steps:-
 
 ### How to Commit changes in your local repo to the Cloud repo
 #### Using git commands
-1. ```$git status``` Use git status to help you see staged files and unstaged files
+1. ```git status``` Use git status to help you see staged files and unstaged files
 
-2. ```$git add .``` Tracks all changes in the local repo (move into the staging area)
+2. ```git add .``` Tracks all changes in the local repo (move into the staging area)
 
-3. ```$git status``` 
+3. ```git status``` 
 
-4. ```$git rm --cached (fileName)``` Untrack a file (move back into working directory)
+4. ```git rm --cached (fileName)``` Untrack a file (move back into working directory)
 
 5. ```git status```
 
