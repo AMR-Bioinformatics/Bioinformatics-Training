@@ -34,7 +34,7 @@ The training curriculum covers a diverse range of topics, including:
 - Nextflow and Docker
 - Introduction to R programming for Visualization
 - Soft skills
-
+https://figshare.com/s/eda6d720b994efac1cf3
 ## Getting Started
 
 To get started with the training materials, follow these steps:
